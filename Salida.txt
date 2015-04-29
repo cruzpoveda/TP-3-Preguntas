@@ -1,0 +1,37 @@
+/* Salida del Programa Preguntas, Juego de preguntas y respuestas con puntaje.
+* Juan Cruz Poveda
+* 24/4/15
+*/
+
+---------------------------Preguntas y repuestas!---------------------------
+Para jugar ingresa la opcion que mas te guste:
+1-Deportes
+2-Conocimiento General
+3-Musica
+4-Salir
+1
+En que deporte se juega embocando pelotas en aros?
+basket
+Correcto, tu puntaje es: 1
+Queres continuar?
+si
+En que deporte se puede hacer un 'Ace'?
+rugby
+incorrecto, tu puntaje es: 1
+Queres continuar?
+si
+Que pais gano el mundial Brasil 2014?
+alemania
+Correcto, tu puntaje es: 2
+Ganaste esta etapa! Segui con otra categoria!
+---------------------------Preguntas y repuestas!---------------------------
+Para jugar ingresa la opcion que mas te guste:
+1-Deportes
+2-Conocimiento General
+3-Musica
+4-Salir
+4
+
+--------------------------------
+Process exited after 190.6 seconds with retun value 0
+Presione una tecla para continuar...
